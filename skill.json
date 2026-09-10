@@ -1,0 +1,16 @@
+{
+  "name": "genpark-shapley-q-value-credit-assignment-skill",
+  "version": "1.0.0",
+  "description": "Cooperative Multi-Agent Reinforcement Learning (MARL) Shapley value credit assignment engine evaluating fair marginal agent coalition rewards.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "marl",
+    "shapley-values",
+    "credit-assignment",
+    "cooperative-ai",
+    "multi-agent"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
